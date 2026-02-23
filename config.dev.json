@@ -17,14 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61584608305717"],
+    "100079347704626"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "💙[ - ] ➢ LøNəLy BoT💙",
-  "prefix": "-",
+  "nickNameBot": "shadowx",
+  "prefix": "#",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
