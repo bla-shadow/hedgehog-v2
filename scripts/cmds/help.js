@@ -19,36 +19,36 @@ module.exports = {
 
   langs: {
     en: {
-      helpHeader: "╔══════◇◆◇══════╗\n"
-                + "      BOT COMMAND LIST\n"
-                + "╠══════◇◆◇══════╣",
-      categoryHeader: "\n   ┌──── {category} ────┐\n",
-      commandItem: "║ │ ❤️‍🩹 {name}",
-      helpFooter: "║ └─────────────┘\n"
-                + "╚══════◇◆◇══════╝",
-      commandInfo: "╔══════◇◆◇══════╗\n"
-                 + "║           COMMAND INFORMATION      \n"
-                 + "╠══════◇◆◇══════╣\n"
-                 + "║ 🏷️ Name: {name}\n"
-                 + "║ 📝 Description: {description}\n"
-                 + "║ 📂 Category: {category}\n"
-                 + "║ 🔤 Aliases: {aliases}\n"
-                 + "║ 🏷️ Version: {version}\n"
-                 + "║ 🔒 Permissions: {role}\n"
-                 + "║ ⏱️ Cooldown: {countDown}s\n"
-                 + "║ 🔧 Use Prefix: {usePrefix}\n"
-                 + "║ 👤 Author: {author}\n"
-                 + "╠══════◇◆◇══════╣",
-      usageHeader: "║ 🛠️ USAGE GUIDE",
-      usageBody: " ║ {usage}",
-      usageFooter: "╚══════◇◆◇══════╝",
-      commandNotFound: "⚠️ Command '{command}' not found!",
-      doNotHave: "None",
-      roleText0: "👥 All Users",
-      roleText1: "👑 Group Admins",
-      roleText2: "⚡ Bot Admins",
-      totalCommands: "📊 Total Commands: {total}\n"
-                  + "Lonely BoT"
+      helpHeader: " "
+                + "  ☃️🎀..𝑺𝑯𝑨𝑫𝑶𝑾..🍯🪄 \n"
+                + " ",
+      categoryHeader: "\n 🍃✨ {category}🎐🍃 \n",
+      commandItem: "🍂✨{name}✨🍂",
+      helpFooter: "\n"
+                + "",
+      commandInfo: "\n"
+                 + " 🎀 𝐂𝐌𝐃𝐒 𝐈𝐍𝐅𝐎 🌷\n"
+                 + "\n"
+                 + " 🏷️ 𝐍𝐚𝐦𝐞: ✨{name}✨\n"
+                 + "📝 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧: {description}\n"
+                 + "📂 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲: {category}\n"
+                 + "🔤 𝐀𝐥𝐢𝐚𝐬𝐞𝐬: {aliases}\n"
+                 + " 🏷️ 𝐕𝐞𝐫𝐬𝐢𝐨𝐧: {version}\n"
+                 + " 🔒 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧𝐬: {role}\n"
+                 + "⏱️ 𝐓𝐄𝐌𝐏𝐒: {countDown}s\n"
+                 + "🔧  𝐏𝐫𝐞𝐟𝐢𝐱 𝐮𝐭𝐢𝐥𝐢𝐬𝐞: {usePrefix}\n"
+                 + " 👤 𝐀𝐮𝐭𝐞𝐮𝐫: {author}\n"
+                 + "",
+      usageHeader: " 🛠️ 𝐮𝐬𝐚𝐠𝐞 𝐜𝐦𝐝𝐬",
+      usageBody: " {usage}",
+      usageFooter: " ",
+      commandNotFound: "⚠️ 𝐥𝐚 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞 '{command}' 𝐧'𝐞𝐱𝐢𝐬𝐭𝐞 𝐩𝐚𝐬!",
+      doNotHave: "𝐍𝐨𝐧𝐞",
+      roleText0: "👥 𝐭𝐨𝐮𝐭 𝐥𝐞 𝐦𝐨𝐧𝐝𝐞 ",
+      roleText1: "👑 𝐠𝐫𝐨𝐮𝐩𝐞 𝐚𝐝𝐦𝐢𝐧'𝐬",
+      roleText2: "⚡ 𝐚𝐝𝐦𝐢𝐧𝐬 𝐛𝐨𝐭 ",
+      totalCommands: "📊 𝐓𝐨𝐭𝐚𝐥 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐞𝐬: ❄️ {total}\n"
+                  + "☃️🎀..𝑺𝑯𝑨𝑫𝑶𝑾..🍯🪄"
     }
   },
 
